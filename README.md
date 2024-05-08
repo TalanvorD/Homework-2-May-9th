@@ -24,10 +24,17 @@ Here are the critical requirements necessary to develop a portfolio that satisfi
 >WHEN I resize the page or view the site on various screens and devices
 >THEN I am presented with a responsive layout that adapts to my viewport
 
-The project is to create a page that showcases my portfolio which contains my name, a photo, links to previous projects and contact methods.
-1. Layout must be responsive to viewport.
-2. First showcased application must be larger than others.
-3. Applications should have titled images.
-4. Application links should go to said application.
-5. Navigation links need to work correctly.
-6. Some amount of "zazz" should be shown.
+This project is to create a page that showcases my portfolio which contains my name, a photo, links to previous projects and contact methods.
+- Layout must be responsive to viewport.
+    - @media screen has been utilized to change properties depending on the viewport.
+- First showcased application must be larger than others.
+    - First featured-project-card is larger in the larger 2 viewport settings and sizes down on the smallest for usability.
+- Applications should have titled images.
+    - Images are titled and have alt tags as well.
+- Application links should go to said application.
+    - Links go to where expected
+- Navigation links need to work correctly.
+    - Navigtation links exist and go to the correct id tags.
+- Some amount of "zazz" should be shown.
+    - The most nebulous item. Added a few changes on hover: box shadow for a glow effect, opacity change for a subtle pop on the images and a transition to ease the card up.
+    - *Graphic design is my passion.*
