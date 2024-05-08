@@ -38,3 +38,5 @@ This project is to create a page that showcases my portfolio which contains my n
 - Some amount of "zazz" should be shown.
     - The most nebulous item. Added a few changes on hover: box shadow for a glow effect, opacity change for a subtle pop on the images and a transition to ease the card up.
     - *Graphic design is my passion.*
+ 
+Link to deployed project: https://talanvord.github.io/Homework-2-May-9th/
